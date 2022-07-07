@@ -1,0 +1,19 @@
+// Vitest Snapshot v1
+
+exports[`TodoList > renders the component 1`] = `
+"<main class=\\"todo-list\\">
+  <div class=\\"todo-list__header\\">
+    <!--v-if--><input class=\\"todo-list__header-input\\" type=\\"text\\" autofocus=\\"\\">
+  </div>
+  <!--v-if-->
+</main>"
+`;
+
+exports[`TodoList > renders the component 2 1`] = `
+"<main class=\\"todo-list\\">
+  <div class=\\"todo-list__header\\">
+    <!--v-if--><input class=\\"todo-list__header-input\\" type=\\"text\\" autofocus=\\"\\">
+  </div>
+  <!--v-if-->
+</main>"
+`;

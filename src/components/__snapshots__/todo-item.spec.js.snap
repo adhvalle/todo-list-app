@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`TodoItem > renders the component 1`] = `
+"<div class=\\"todo-item\\">
+  <div class=\\"todo-item__checkbox\\"><input type=\\"checkbox\\" data-test=\\"todo-item__checkbox\\"></div>
+  <div>
+    <div data-test=\\"todo-item__label\\">Title</div>
+  </div><a href=\\"#\\" class=\\"todo-item__clear\\" data-test=\\"todo-item__clear\\"> x </a>
+</div>"
+`;
