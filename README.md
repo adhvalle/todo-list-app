@@ -1,3 +1,17 @@
+The objective of the exercise is to display a list of tasks with two statuses: completed and incompleted. In addition, several filtering options are available.
+
+## Public project
+https://adhvalle.github.io/todo-list-app/
+
+## Screenshot
+![Screenshot](screenshot.png)
+
+## Technologies
+* [Vue 3](https://vuejs.org/)
+* [Vitest](https://vitest.dev/)
+* [Vue router](https://router.vuejs.org/)
+* [Vue Test Utils](https://test-utils.vuejs.org/)
+
 ## Project Setup
 
 ```sh
